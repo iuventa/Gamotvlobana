@@ -130,3 +130,35 @@ main.flex{
 footer{
     padding: 50px;
 }
+.moqmedebebi{
+    margin: 0 100px;
+    height: 60vh;
+}
+.moqmedeba{
+    width: 20%;
+    padding: 50px;
+    text-align: center;
+    flex-direction: column;
+    background-color: #000631;
+    color: #f7d6dc;
+}
+.choosemoqmedeba{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 10px;
+    font-weight: 900;
+}
+.moqmedeba p:first-child{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.moqmedeba:hover{
+    background-color: #000a56;
+    cursor: pointer;
+}
+#main{
+    display: none;
+}
+#gamravlebaujra, #gamoklebaujra{
+    display: none;
+}
